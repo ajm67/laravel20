@@ -81,14 +81,22 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Aidan // Laravel
+                    Aidan    //    Laravel
                 </div>
 
                 <div class="links">
-                    <a href="">Heroku Laravel Database and user Authentication Assignment</a>
+                    <a href="https://desolate-scrubland-62573.herokuapp.com/">Heroku Laravel Database and user Authentication Assignment</a>
+                    <br>
                     <br>
                     <a href="https://laracasts.com">Laracasts</a>
+                    <br>
+                    <br>
                     <a href="https://laravel-news.com">News</a>
+                    <br>
+                    <br>
+                    <a href="https://blog.laravel.com">Blog</a>
+                    <br>
+                    <br>
                     <a href="https://blog.laravel.com">Blog</a>
 
                 </div>
